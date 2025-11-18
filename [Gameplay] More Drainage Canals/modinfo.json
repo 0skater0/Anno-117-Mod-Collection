@@ -1,0 +1,81 @@
+{
+  "Version": "1.0.0",
+  "Anno": 8,
+  "ModID": "moredrainagecanals",
+  "Difficulty": "easier",
+  "GameSetup": {
+    "RequiresNewGame": false,
+    "SafeToRemove": true,
+    "Multiplayer": true,
+    "Campaign": true
+  },
+  "Dependencies": {
+    "Require": [],
+    "Optional": [],
+    "LoadAfter": [],
+    "Deprecate": [],
+    "Incompatible": []
+  },
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "Chinese": "更多排水渠道",
+    "English": "More Drainage Channels",
+    "French": "Plus de canaux de drainage",
+    "German": "Mehr Entwässerungskanäle",
+    "Italian": "Più canali di drenaggio",
+    "Japanese": "排水チャネル拡張",
+    "Korean": "배수 채널 증가",
+    "Polish": "Więcej kanałów drenażowych",
+    "Russian": "Больше дренажных каналов",
+    "Spanish": "Más canales de drenaje",
+    "Taiwanese": "更多排水渠道",
+    "Portuguese": "Mais canais de drenagem"
+  },
+  "Description": {
+    "Chinese": "此模組提高了在阿爾比恩中，每個水閘可支援的排水渠道數量。",
+    "English": "This mod increases how many drainage channels each Sluice Gate in Albion can support.",
+    "French": "Ce mod augmente le nombre de canaux de drainage qu’une porte-écluse peut supporter dans Albion.",
+    "German": "Diese Mod erhöht in Albion die Anzahl der Entwässerungskanäle, die ein Schleusentor unterstützen kann.",
+    "Italian": "Questa mod aumenta il numero di canali di drenaggio che ogni chiusa può supportare in Albion.",
+    "Japanese": "このMODは、アルビオンの各スルースゲートが対応できる排水チャネル数を増やします。",
+    "Korean": "이 모드는 알비온에서 각 수문이 지원할 수 있는 배수 채널 수를 증가시킵니다.",
+    "Polish": "Mod zwiększa liczbę kanałów drenażowych, które jedna śluza może obsłużyć w Albionie.",
+    "Russian": "Мод увеличивает количество дренажных каналов, которые один шлюз может поддерживать в Альбионе.",
+    "Spanish": "Este mod aumenta la cantidad de canales de drenaje que puede soportar cada compuerta de esclusa en Albion.",
+    "Taiwanese": "此模組提高了在阿比昂中，每個水閘可支援的排水渠道數量。",
+    "Portuguese": "Este mod aumenta a quantidade de canais de drenagem que cada comporta pode suportar em Albion."
+  },
+  "KnownIssues":
+  [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [
+  ],
+  "CreatorName": "0skater0",
+  "CreatorContact": "",
+  "Image": null
+}

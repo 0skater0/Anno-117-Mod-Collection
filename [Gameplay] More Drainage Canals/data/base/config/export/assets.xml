@@ -1,0 +1,16 @@
+<ModOps>
+	<!-- Base pipe capacity -->
+	<ModOp Type="replace" Path="//Asset[Values/Standard/GUID='9035']/Values/IrrigationSource/PipeFillCapacity">
+		<PipeFillCapacity>100</PipeFillCapacity>
+	</ModOp>
+
+	<!-- Upgrade pipe capacity bonus -->
+	<ModOp Type="replace" Path="//Asset[Values/Standard/GUID='29210']/Values/IrrigationUpgrade/PipeCapacityUpgrade/Value">
+		<Value>150</Value>
+	</ModOp>
+
+	<!-- Maintenance cost per 10 tiles -->
+	<ModOp Type="replace" Path="//Asset[Values/Standard/GUID='31120']/Values/MeshGraphStyle/MaintenancePerUnitLength">
+		<MaintenancePerUnitLength>0.4</MaintenancePerUnitLength>
+	</ModOp>
+</ModOps>
