@@ -1,0 +1,9 @@
+# Local IDE folders
+.idea/
+.vscode/
+.qodo/
+
+# Local 
+.DS_Store
+node_modules/
+vendor/
