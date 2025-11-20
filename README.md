@@ -9,7 +9,7 @@ For a list of my GUID range and all the GUIDs I've used, click [here](https://gi
 - Install manually with downloads from [Mod.io](https://mod.io/g/anno-117-pax-romana/u/0skater0)
 
 ## Mods
-- [[Gameplay] More Drainage Canals](https://github.com/0skater0/Anno-117-Mod-Collection/tree/main/%5BAddon%5D%20Additional%20Steam%20Ships#en---englisch)
+- [[Gameplay] More Drainage Canals](https://github.com/0skater0/Anno-117-Mod-Collection/tree/master/%5BGameplay%5D%20More%20Drainage%20Canals#en--description)
 
 ## Feedback and Support
 
