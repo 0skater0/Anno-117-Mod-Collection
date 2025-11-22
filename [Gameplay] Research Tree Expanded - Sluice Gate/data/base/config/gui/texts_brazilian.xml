@@ -1,0 +1,48 @@
+<ModOps>
+    <ModOp Path="/TextExport/Texts" Type="add">
+        <Text>
+            <LineId>1742500004</LineId>
+            <Text>Mais canais de drenagem</Text>
+        </Text>
+        <Text>
+            <LineId>1742500005</LineId>
+            <Text>Para você que quer drenar o pântano como um verdadeiro romano.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500006</LineId>
+            <Text>Pesquise Drenagem primeiro.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500028</LineId>
+            <Text>Pesquise elevação das comportas primeiro.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500015</LineId>
+            <Text>Melhorias da comporta de eclusa</Text>
+        </Text>
+        <Text>
+            <LineId>1742500029</LineId>
+            <Text>Mais canais de drenagem podem ser ligados a cada comporta de eclusa, reduzindo seus custos de operação.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500030</LineId>
+            <Text>Um canal mais largo leva mais água e menos pragas dos capatazes.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500031</LineId>
+            <Text>A cada engrenagem que acrescentamos, a comporta obedece um pouco mais fielmente à nossa vontade.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500032</LineId>
+            <Text>Cada pedaço de pântano que recuperamos é mais uma pequena vitória da teimosia romana.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500033</LineId>
+            <Text>Os contadores adoram qualquer comporta que drene água mais rápido do que drena moedas.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500034</LineId>
+            <Text>Um dia vão chamar este vale de terra firme e esquecer que um dia foi um pântano.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

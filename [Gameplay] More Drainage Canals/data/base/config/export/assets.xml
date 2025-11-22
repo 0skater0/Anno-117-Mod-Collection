@@ -1,30 +1,34 @@
 <ModOps>
-  <!-- Base pipe capacity -->
-  <ModOp Type="replace" Path="//Asset[Values/Standard/GUID='9035']/Values/IrrigationSource/PipeFillCapacity">
-    <PipeFillCapacity>100</PipeFillCapacity>
-  </ModOp>
-
-  <!-- Upgrade pipe capacity bonus -->
-  <ModOp Type="replace" Path="//Asset[Values/Standard/GUID='29210']/Values/IrrigationUpgrade/PipeCapacityUpgrade/Value">
-    <Value>150</Value>
-  </ModOp>
-
-  <!-- Maintenance cost per 10 tiles -->
-  <ModOp Type="replace" Path="//Asset[Values/Standard/GUID='31120']/Values/MeshGraphStyle/MaintenancePerUnitLength">
-    <MaintenancePerUnitLength>0.4</MaintenancePerUnitLength>
-  </ModOp>
-
-  <!-- Channel drain width -->
-  <ModOp Type="replace" GUID="8789" Path="/Values/IrrigationConfig/IrrigationTiles/IrrigationTileDefinitions/Source_Marsh_Canal/SourceSpreadMin">
-    <SourceSpreadMin>12</SourceSpreadMin>
-  </ModOp>
-  <ModOp Type="replace" GUID="8789" Path="/Values/IrrigationConfig/IrrigationTiles/IrrigationTileDefinitions/Source_Marsh_Canal/SourceSpreadMax">
-    <SourceSpreadMax>12</SourceSpreadMax>
-  </ModOp>
-  <ModOp Type="replace" GUID="8789" Path="/Values/IrrigationConfig/IrrigationTiles/IrrigationTileDefinitions/Source_Marsh_Range/SourceSpreadMin">
-    <SourceSpreadMin>12</SourceSpreadMin>
-  </ModOp>
-  <ModOp Type="replace" GUID="8789" Path="/Values/IrrigationConfig/IrrigationTiles/IrrigationTileDefinitions/Source_Marsh_Range/SourceSpreadMax">
-    <SourceSpreadMax>12</SourceSpreadMax>
-  </ModOp>
+    <!-- Base pipe capacity - default 75 -->
+    <ModOp Type="replace" Path="//Asset[Values/Standard/GUID='9035']/Values/IrrigationSource/PipeFillCapacity">
+        <PipeFillCapacity>100</PipeFillCapacity>
+    </ModOp>
+    <!-- Upgrade pipe capacity bonus - default 80 -->
+    <ModOp Type="replace"
+           Path="//Asset[Values/Standard/GUID='29210']/Values/IrrigationUpgrade/PipeCapacityUpgrade/Value">
+        <Value>150</Value>
+    </ModOp>
+    <!-- Maintenance cost per 10 tiles - default 0.4 -->
+    <ModOp Type="replace" Path="//Asset[Values/Standard/GUID='31120']/Values/MeshGraphStyle/MaintenancePerUnitLength">
+        <MaintenancePerUnitLength>0.4</MaintenancePerUnitLength>
+    </ModOp>
+    <!-- Channel drain width - default 8 -->
+    <Group>
+        <ModOp Type="replace" GUID="8789"
+               Path="/Values/IrrigationConfig/IrrigationTiles/IrrigationTileDefinitions/Source_Marsh_Canal/SourceSpreadMin">
+            <SourceSpreadMin>12</SourceSpreadMin>
+        </ModOp>
+        <ModOp Type="replace" GUID="8789"
+               Path="/Values/IrrigationConfig/IrrigationTiles/IrrigationTileDefinitions/Source_Marsh_Canal/SourceSpreadMax">
+            <SourceSpreadMax>12</SourceSpreadMax>
+        </ModOp>
+        <ModOp Type="replace" GUID="8789"
+               Path="/Values/IrrigationConfig/IrrigationTiles/IrrigationTileDefinitions/Source_Marsh_Range/SourceSpreadMin">
+            <SourceSpreadMin>12</SourceSpreadMin>
+        </ModOp>
+        <ModOp Type="replace" GUID="8789"
+               Path="/Values/IrrigationConfig/IrrigationTiles/IrrigationTileDefinitions/Source_Marsh_Range/SourceSpreadMax">
+            <SourceSpreadMax>12</SourceSpreadMax>
+        </ModOp>
+    </Group>
 </ModOps>

@@ -1,0 +1,48 @@
+<ModOps>
+    <ModOp Path="/TextExport/Texts" Type="add">
+        <Text>
+            <LineId>1742500004</LineId>
+            <Text>Più canali di drenaggio</Text>
+        </Text>
+        <Text>
+            <LineId>1742500005</LineId>
+            <Text>Per te che vuoi prosciugare la palude come un vero romano.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500006</LineId>
+            <Text>Ricerca prima Drenaggio.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500028</LineId>
+            <Text>Ricerca prima Sollevamento delle chiuse.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500015</LineId>
+            <Text>Miglioramenti alla chiusa</Text>
+        </Text>
+        <Text>
+            <LineId>1742500029</LineId>
+            <Text>Più canali di drenaggio possono essere collegati a ogni chiusa, riducendone i costi di gestione.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500030</LineId>
+            <Text>Un canale più largo porta più acqua e meno imprecazioni dei sorveglianti.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500031</LineId>
+            <Text>Con ogni ingranaggio che aggiungiamo, la chiusa obbedisce un po’ più fedelmente alla nostra volontà.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500032</LineId>
+            <Text>Ogni tratto di palude che riconquistiamo è una piccola vittoria della testardaggine romana.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500033</LineId>
+            <Text>I contabili adorano ogni chiusa che drena l’acqua più in fretta di quanto prosciughi il tesoro.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500034</LineId>
+            <Text>Un giorno chiameranno questa valle terra asciutta e dimenticheranno che è stata una palude.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

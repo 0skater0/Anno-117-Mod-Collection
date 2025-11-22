@@ -1,0 +1,48 @@
+<ModOps>
+    <ModOp Path="/TextExport/Texts" Type="add">
+        <Text>
+            <LineId>1742500004</LineId>
+            <Text>더 많은 배수 수로</Text>
+        </Text>
+        <Text>
+            <LineId>1742500005</LineId>
+            <Text>진정한 로마인답게 늪을 말리고 싶은 그대를 위해.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500006</LineId>
+            <Text>먼저 『배수』를 연구하십시오.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500028</LineId>
+            <Text>먼저 『수문 인양』을 연구하십시오.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500015</LineId>
+            <Text>수문 개선</Text>
+        </Text>
+        <Text>
+            <LineId>1742500029</LineId>
+            <Text>각 수문에 더 많은 배수 수로를 연결할 수 있어 유지비가 감소합니다.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500030</LineId>
+            <Text>더 넓은 수로는 더 많은 물과 감독관들의 욕설은 그만큼 덜 실어 나릅니다.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500031</LineId>
+            <Text>톱니바퀴를 하나 더할 때마다 수문은 우리의 의지에 조금 더 충실히 복종합니다.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500032</LineId>
+            <Text>되찾은 늪지의 한 구획, 한 구획이 로마인의 고집스러움이 거둔 작은 승리입니다.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500033</LineId>
+            <Text>회계관들은 물을 금화보다 먼저 빼내 주는 모든 수문을 사랑합니다.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500034</LineId>
+            <Text>언젠가 사람들은 이 골짜기를 마른 대지라 부르며, 한때 늪이었다는 사실을 잊어버릴 것입니다.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

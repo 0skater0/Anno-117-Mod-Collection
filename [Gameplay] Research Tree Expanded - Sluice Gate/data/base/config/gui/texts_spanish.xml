@@ -1,0 +1,48 @@
+<ModOps>
+    <ModOp Path="/TextExport/Texts" Type="add">
+        <Text>
+            <LineId>1742500004</LineId>
+            <Text>Más canales de drenaje</Text>
+        </Text>
+        <Text>
+            <LineId>1742500005</LineId>
+            <Text>Para ti, que quieres desecar el pantano como un verdadero romano.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500006</LineId>
+            <Text>Investiga primero Drenaje.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500028</LineId>
+            <Text>Investiga primero Elevación de compuertas.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500015</LineId>
+            <Text>Mejoras de la compuerta de esclusa</Text>
+        </Text>
+        <Text>
+            <LineId>1742500029</LineId>
+            <Text>Se pueden conectar más canales de drenaje a cada compuerta de esclusa y así reducir sus costes de funcionamiento.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500030</LineId>
+            <Text>Un canal más ancho lleva más agua y menos maldiciones de los capataces.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500031</LineId>
+            <Text>Con cada engranaje que añadimos, la compuerta obedece un poco más fielmente a nuestra voluntad.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500032</LineId>
+            <Text>Cada tramo de marisma que reclamamos es otra pequeña victoria de la tozudez romana.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500033</LineId>
+            <Text>A los contables les encanta cualquier compuerta que drene el agua más rápido de lo que drena el oro.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500034</LineId>
+            <Text>Algún día llamarán a este valle tierra firme y olvidarán que fue un pantano.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

@@ -1,0 +1,48 @@
+<ModOps>
+    <ModOp Path="/TextExport/Texts" Type="add">
+        <Text>
+            <LineId>1742500004</LineId>
+            <Text>Davantage de canaux de drainage</Text>
+        </Text>
+        <Text>
+            <LineId>1742500005</LineId>
+            <Text>Pour toi qui veux assécher le marais comme un vrai Romain.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500006</LineId>
+            <Text>Recherchez d’abord le drainage.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500028</LineId>
+            <Text>Recherchez d’abord le relèvement des vannes.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500015</LineId>
+            <Text>Améliorations de la porte d’écluse</Text>
+        </Text>
+        <Text>
+            <LineId>1742500029</LineId>
+            <Text>Davantage de canaux de drainage peuvent être reliés à chaque porte d’écluse et en réduisent les coûts de fonctionnement.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500030</LineId>
+            <Text>Un canal plus large transporte plus d’eau et moins de jurons des contremaîtres.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500031</LineId>
+            <Text>À chaque engrenage ajouté, la vanne obéit un peu plus fidèlement à notre volonté.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500032</LineId>
+            <Text>Chaque parcelle de marais que nous reprenons est une petite victoire de l’obstination romaine.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500033</LineId>
+            <Text>Les comptables adorent toute vanne qui évacue l’eau plus vite qu’elle ne dévore les deniers.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500034</LineId>
+            <Text>Un jour, on appellera cette vallée des terres sèches et l’on oubliera qu’elle fut un marais.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

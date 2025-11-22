@@ -1,0 +1,48 @@
+<ModOps>
+    <ModOp Path="/TextExport/Texts" Type="add">
+        <Text>
+            <LineId>1742500004</LineId>
+            <Text>Więcej kanałów odwadniających</Text>
+        </Text>
+        <Text>
+            <LineId>1742500005</LineId>
+            <Text>Dla ciebie, który chcesz osuszyć bagno jak prawdziwy Rzymianin.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500006</LineId>
+            <Text>Najpierw zbadaj Odwadnianie.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500028</LineId>
+            <Text>Najpierw zbadaj Podnoszenie śluz.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500015</LineId>
+            <Text>Ulepszenia śluzy</Text>
+        </Text>
+        <Text>
+            <LineId>1742500029</LineId>
+            <Text>Do każdej śluzy można podłączyć więcej kanałów odwadniających, co obniża jej koszty utrzymania.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500030</LineId>
+            <Text>Szerszy kanał niesie więcej wody i mniej przekleństw nadzorców.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500031</LineId>
+            <Text>Z każdą zębatką, którą dokładamy, śluza odrobinę wierniej słucha naszej woli.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500032</LineId>
+            <Text>Każdy odzyskany skrawek bagna to małe zwycięstwo rzymskiej upartości.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500033</LineId>
+            <Text>Rachmistrze kochają każdą śluzę, która spuszcza wodę szybciej, niż spuszcza denary.</Text>
+        </Text>
+        <Text>
+            <LineId>1742500034</LineId>
+            <Text>Pewnego dnia nazwą tę dolinę suchym lądem i zapomną, że była bagnem.</Text>
+        </Text>
+    </ModOp>
+</ModOps>

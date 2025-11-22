@@ -57,8 +57,7 @@
     "Taiwanese": "此模組提高了在阿比昂中，每個水閘可支援的排水渠道數量。",
     "Portuguese": "Este mod aumenta a quantidade de canais de drenagem que cada comporta pode suportar em Albion."
   },
-  "KnownIssues":
-  [
+  "KnownIssues": [
     {
       "Chinese": null,
       "English": null,
@@ -73,8 +72,7 @@
       "Taiwanese": null
     }
   ],
-  "DLCDependencies": [
-  ],
+  "DLCDependencies": [],
   "CreatorName": "0skater0",
   "CreatorContact": "",
   "Image": null

@@ -1,0 +1,79 @@
+{
+  "Version": "1.0.0",
+  "Anno": 8,
+  "ModID": "researchtreeexpanded-sluicegate",
+  "Difficulty": "normal",
+  "GameSetup": {
+    "RequiresNewGame": false,
+    "SafeToRemove": true,
+    "Multiplayer": true,
+    "Campaign": true
+  },
+  "Dependencies": {
+    "Require": [],
+    "Optional": [],
+    "LoadAfter": [],
+    "Deprecate": [],
+    "Incompatible": []
+  },
+  "Category": {
+    "Chinese": "Gameplay",
+    "English": "Gameplay",
+    "French": "Gameplay",
+    "German": "Gameplay",
+    "Italian": "Gameplay",
+    "Japanese": "Gameplay",
+    "Korean": "Gameplay",
+    "Polish": "Gameplay",
+    "Russian": "Gameplay",
+    "Spanish": "Gameplay",
+    "Taiwanese": "Gameplay"
+  },
+  "ModName": {
+    "German": "Research Tree Expanded - Schleusentor",
+    "English": "Research Tree Expanded - Sluice Gate",
+    "Spanish": "Árbol de investigación ampliado - Comp puerta de esclusa",
+    "French": "Arbre de recherche étendu - Écluse",
+    "Italian": "Albero di ricerca espanso - Chiusa",
+    "Polish": "Rozszerzone drzewko badań - Śluza",
+    "Portuguese": "Árvore de pesquisa expandida - Eclusa",
+    "Russian": "Расширенное древо исследований - Шлюз",
+    "Chinese": "擴展研究樹 - 水閘",
+    "Taiwanese": "擴展研究樹 - 水閘",
+    "Japanese": "研究ツリー拡張 - スルースゲート",
+    "Korean": "연구 트리 확장 - 수문"
+  },
+  "Description": {
+    "German": "Erweitert den Forschungsbaum mit Upgrades für das Schleusentor, z.B. höhere Drainage-Reichweite und stärkere Kapazität pro Ausbau.",
+    "English": "Expands the research tree with upgrades for the Sluice Gate, such as higher drainage range and stronger capacity per upgrade.",
+    "Spanish": "Amplía el árbol de investigación con mejoras para la compuerta de esclusa, como mayor alcance de drenaje y más capacidad por mejora.",
+    "French": "Étend l'arbre de recherche avec des améliorations pour l'écluse, comme une portée de drainage accrue et une capacité plus élevée par mise à niveau.",
+    "Italian": "Espande l'albero di ricerca con potenziamenti per la chiusa, ad esempio maggiore portata di drenaggio e capacità potenziata per ogni upgrade.",
+    "Polish": "Rozszerza drzewko badań o ulepszenia śluzy, np. większy zasięg drenażu i lepszą pojemność na ulepszenie.",
+    "Portuguese": "Expande a árvore de pesquisa com upgrades para a eclusa, como maior alcance de drenagem y más capacidad por mejora.",
+    "Russian": "Расширяет древо исследований улучшениями для шлюза, такими как увеличенный радиус дренажа и повышенная вместимость за каждое улучшение.",
+    "Chinese": "透過研究樹添加水閘升級，例如更高的排水範圍與更強的容量提升。",
+    "Taiwanese": "透過研究樹新增水閘升級，例如更高的排水範圍與更強的容量提升。",
+    "Japanese": "研究ツリーにスルースゲートのアップグレードを追加し、排水範囲の拡張や容量強化などを行えます。",
+    "Korean": "연구 트리에 수문 업그레이드를 추가하여 더 넓은 배수 범위와 강화된 용량을 제공합니다."
+  },
+  "KnownIssues": [
+    {
+      "Chinese": null,
+      "English": null,
+      "French": null,
+      "German": null,
+      "Italian": null,
+      "Japanese": null,
+      "Korean": null,
+      "Polish": null,
+      "Russian": null,
+      "Spanish": null,
+      "Taiwanese": null
+    }
+  ],
+  "DLCDependencies": [],
+  "CreatorName": "0skater0",
+  "CreatorContact": "",
+  "Image": null
+}

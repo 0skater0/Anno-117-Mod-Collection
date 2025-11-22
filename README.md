@@ -10,7 +10,8 @@ For a list of my GUID range and all the GUIDs I've used, click [here](https://gi
 
 ## Mods
 - [[Gameplay] More Drainage Canals](https://github.com/0skater0/Anno-117-Mod-Collection/tree/master/%5BGameplay%5D%20More%20Drainage%20Canals#en--description)
-
+- [[Gameplay] Research Tree Expanded - Sluice Gate](https://github.com/0skater0/Anno-117-Mod-Collection/tree/master/%5BGameplay%5D%20Research%20Tree%20Expanded%20-%20Sluice%20Gate#en--description)
+  
 ## Feedback and Support
 
 If you encounter any issues or have suggestions for improvements, please create a new issue [here](https://github.com/0skater0/Anno-117-Mod-Collection/issues). <br>
