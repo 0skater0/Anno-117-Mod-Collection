@@ -24,7 +24,7 @@
                         <TechName>1742500004</TechName>
                         <TechIcon>28273</TechIcon>
                         <TechDescription>1742500005</TechDescription>
-                        <KnowledgeNeeded>1</KnowledgeNeeded>
+                        <KnowledgeNeeded>24000</KnowledgeNeeded>
                         <Rewards>
                             <Effects>
                                 <Item>
@@ -203,7 +203,7 @@
                         <TechName>1742500004</TechName>
                         <TechIcon>28273</TechIcon>
                         <TechDescription>1742500030</TechDescription>
-                        <KnowledgeNeeded>1</KnowledgeNeeded>
+                        <KnowledgeNeeded>24000</KnowledgeNeeded>
                         <Rewards>
                             <Effects>
                                 <Item>
@@ -382,7 +382,7 @@
                         <TechName>1742500015</TechName>
                         <TechIcon>28273</TechIcon>
                         <TechDescription>1742500031</TechDescription>
-                        <KnowledgeNeeded>1</KnowledgeNeeded>
+                        <KnowledgeNeeded>18000</KnowledgeNeeded>
                         <Rewards>
                             <Effects>
                                 <Item>
@@ -569,7 +569,7 @@
                         <TechName>1742500004</TechName>
                         <TechIcon>28273</TechIcon>
                         <TechDescription>1742500032</TechDescription>
-                        <KnowledgeNeeded>1</KnowledgeNeeded>
+                        <KnowledgeNeeded>325000</KnowledgeNeeded>
                         <Rewards>
                             <Effects>
                                 <Item>
@@ -748,7 +748,7 @@
                         <TechName>1742500004</TechName>
                         <TechIcon>28273</TechIcon>
                         <TechDescription>1742500033</TechDescription>
-                        <KnowledgeNeeded>1</KnowledgeNeeded>
+                        <KnowledgeNeeded>325000</KnowledgeNeeded>
                         <Rewards>
                             <Effects>
                                 <Item>
@@ -927,7 +927,7 @@
                         <TechName>1742500015</TechName>
                         <TechIcon>28273</TechIcon>
                         <TechDescription>1742500034</TechDescription>
-                        <KnowledgeNeeded>1</KnowledgeNeeded>
+                        <KnowledgeNeeded>275000</KnowledgeNeeded>
                         <Rewards>
                             <Effects>
                                 <Item>
