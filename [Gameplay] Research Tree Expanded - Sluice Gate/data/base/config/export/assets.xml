@@ -1,6 +1,51 @@
 <ModOps>
     <!-- Tech Tree -->
     <Group>
+        <!-- CategoryConfig Economy -->
+        <ModOp GUID="24318" Add="TechCategory/Techs">
+            <Item>
+                <Tech>1742500000</Tech>
+            </Item>
+            <Item>
+                <Tech>1742500007</Tech>
+            </Item>
+            <Item>
+                <Tech>1742500011</Tech>
+            </Item>
+            <Item>
+                <Tech>1742500016</Tech>
+            </Item>
+            <Item>
+                <Tech>1742500020</Tech>
+            </Item>
+            <Item>
+                <Tech>1742500024</Tech>
+            </Item>
+        </ModOp>
+        <!-- TechPool Economy Mid-L (AssetPool) -->
+        <ModOp GUID="38726" Add="AssetPool/AssetList">
+            <Item>
+                <Asset>1742500000</Asset>
+            </Item>
+            <Item>
+                <Asset>1742500007</Asset>
+            </Item>
+            <Item>
+                <Asset>1742500011</Asset>
+            </Item>
+        </ModOp>
+        <!-- TechPool Economy End-L (AssetPool) -->
+        <ModOp GUID="38728" Add="AssetPool/AssetList">
+            <Item>
+                <Asset>1742500016</Asset>
+            </Item>
+            <Item>
+                <Asset>1742500020</Asset>
+            </Item>
+            <Item>
+                <Asset>1742500024</Asset>
+            </Item>
+        </ModOp>
         <!-- Tech Economy -4 2 Drainage -->
         <ModOp Type="AddNextSibling" GUID="21648">
             <!-- Drainage Channel Upgrade 1 -->
@@ -1094,51 +1139,6 @@
                 </Values>
             </Asset>
         </ModOp>
-        <!-- TechPool Economy Mid-L (AssetPool) -->
-        <ModOp GUID="38726" Add="AssetPool/AssetList">
-            <Item>
-                <Asset>1742500000</Asset>
-            </Item>
-            <Item>
-                <Asset>1742500007</Asset>
-            </Item>
-            <Item>
-                <Asset>1742500011</Asset>
-            </Item>
-        </ModOp>
-        <!-- TechPool Economy End-L (AssetPool) -->
-        <ModOp GUID="38728" Add="AssetPool/AssetList">
-            <Item>
-                <Asset>1742500016</Asset>
-            </Item>
-            <Item>
-                <Asset>1742500020</Asset>
-            </Item>
-            <Item>
-                <Asset>1742500024</Asset>
-            </Item>
-        </ModOp>
-        <!-- CategoryConfig Economy -->
-        <ModOp GUID="24318" Add="TechCategory/Techs">
-            <Item>
-                <Tech>1742500000</Tech>
-            </Item>
-            <Item>
-                <Tech>1742500007</Tech>
-            </Item>
-            <Item>
-                <Tech>1742500011</Tech>
-            </Item>
-            <Item>
-                <Tech>1742500016</Tech>
-            </Item>
-            <Item>
-                <Tech>1742500020</Tech>
-            </Item>
-            <Item>
-                <Tech>1742500024</Tech>
-            </Item>
-        </ModOp>
         <!-- Move Items to the left -->
         <Group>
             <ModOp Type="replace" Path="//Asset[Values/Standard/GUID='38446']/Values/Tech/GridPosition">
@@ -1218,6 +1218,73 @@
                     </SubTrigger>
                 </Item>
             </SubTriggers>
+        </ModOp>
+    </Group>
+    <!-- Lock Items behind Inspiration -->
+    <Group>
+        <!-- New Trigger Unlock Condition Tech Economy -3 3 WaterPlacement Production Latium -->
+        <ModOp Type="add" Path="//Asset[Values/Standard/GUID='81193']/Values/Tech">
+            <TechResearchableTrigger>1742500035</TechResearchableTrigger>
+        </ModOp>
+        <!-- Tech Economy -3 3 WaterPlacement Production Latium -->
+        <ModOp Type="AddNextSibling" GUID="81193">
+            <Asset>
+                <Template>FeatureUnlock</Template>
+                <Values>
+                    <Standard>
+                        <GUID>1742500035</GUID>
+                        <Name>Tech Economy -3 3 WaterPlacement Production Latium Condition</Name>
+                    </Standard>
+                    <Locked/>
+                    <Trigger>
+                        <TriggerCondition>
+                            <Template>ConditionAlwaysTrue</Template>
+                            <Values>
+                                <Condition/>
+                                <ConditionAlwaysTrue/>
+                            </Values>
+                        </TriggerCondition>
+                        <TriggerActions>
+                            <Item>
+                                <TriggerAction>
+                                    <Template>ActionUnlockAsset</Template>
+                                    <Values>
+                                        <Action/>
+                                        <ActionUnlockAsset>
+                                            <UnlockAssets>
+                                                <Item>
+                                                    <Asset>81193</Asset>
+                                                </Item>
+                                            </UnlockAssets>
+                                        </ActionUnlockAsset>
+                                    </Values>
+                                </TriggerAction>
+                            </Item>
+                        </TriggerActions>
+                        <SubTriggers>
+                            <Item>
+                                <SubTrigger>
+                                    <Template>AutoCreateTrigger</Template>
+                                    <Values>
+                                        <Trigger>
+                                            <TriggerCondition>
+                                                <Template>ConditionTechResearched</Template>
+                                                <Values>
+                                                    <Condition/>
+                                                    <ConditionTechResearched>
+                                                        <TechGuid>37728</TechGuid>
+                                                    </ConditionTechResearched>
+                                                </Values>
+                                            </TriggerCondition>
+                                        </Trigger>
+                                    </Values>
+                                </SubTrigger>
+                            </Item>
+                        </SubTriggers>
+                    </Trigger>
+                    <TriggerSetup/>
+                </Values>
+            </Asset>
         </ModOp>
     </Group>
     <!-- Channel drain width - default 8 -->
